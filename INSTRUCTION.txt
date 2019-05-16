@@ -1,0 +1,2 @@
+To run the index.php file you need to install XAMPP software which inside of DATABASE PROJECT file.
+After installing XAMPP need to run APACHE and MYSQL.
